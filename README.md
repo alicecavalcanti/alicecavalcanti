@@ -1,4 +1,4 @@
-<h1>Olá sou Alice Cavalcanti, programadora web <h1>
+<h1>Olá! sou Alice Cavalcanti, programadora web <h1>
 
 <div style="display: inline_block>
  <a href="https://github.com/alicecavalcanti">
