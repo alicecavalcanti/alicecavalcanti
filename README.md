@@ -3,20 +3,16 @@
 **`Desenvolvedora Backend`**
 
 - Graduanda em Ciência da Computação.
-
 - Graduada em Análise e Desenvolvimento de Sistemas.
-
 - Tenho experiência na criação e manutenção de aplicações escaláveis utilizando Spring Boot, Kotlin e Java.
 
 ## Socials
 
----
 <a href="https://www.linkedin.com/in/alicecavalcanti24/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:alicecavalcanti24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## 💻 Tech Stack
 
----
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
