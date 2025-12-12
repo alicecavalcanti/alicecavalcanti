@@ -4,7 +4,7 @@
 
 - Graduanda em Ciência da Computação.
 - Graduada em Análise e Desenvolvimento de Sistemas.
-- Tenho experiência na criação e manutenção de aplicações escaláveis utilizando Spring Boot, Kotlin e Java.
+- Desenvolvo aplicações escaláveis com Spring Boot e Kotlin, com experiência em microserviços, MongoDB, Docker, JUnit e arquiteturas orientadas a eventos com Kafka.
 
 ## Socials
 
@@ -19,6 +19,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![JUnit5](https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
